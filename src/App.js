@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          my fist app is succesfuly deploy.
         </a>
       </header>
     </div>
